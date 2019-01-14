@@ -1,18 +1,18 @@
 # JavaScript: Unix Programming Guide
 
-This is a guide for JavaScript or Node.js developer who'd like to get familiar with programing under Unix environment, and it's inspired by *Advance programming in the Unix environment*.
+This is a guide for JavaScript or Node.js developer who'd like to get familiar with programing under Unix environment, and it's inspired by *Advance programming in the Unix environment*.
 
 ## Audience
 
 The Unix-like (sometimes referred to as UN*X or *nix) operating system such as Linux is the common part of server side solution, and widely used by the companies all around the world. So this guide is for:
 
-- **Frontend** developers, who want know more about server side operating system and programming.
+- **Frontend** developers, who want know more about server side operating system and programming.
 - **Backend** developers, who may using **Node.js** or other kind of interpretive language, want to explore more *nix API with Node.js API.
-- And the developers which want to learn with **JavaScript instead of C**.
+- And the developers which want to learn with **JavaScript instead of C**.
 
 ## Prerequisites
 
-This tutorial expects basic understanding of programming language such as JavaScript and Python, etc. And there still be some  knowledge of C.
+This tutorial expects basic understanding of programming language such as JavaScript and Python, etc. And there still be some  knowledge of C.
 
 ## Contents
 
