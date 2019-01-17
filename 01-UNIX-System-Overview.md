@@ -6,6 +6,6 @@ Actually, the Operating System (or OS) is a program that runs programs. For exam
 
 As web browsers' user, you may wanna ask if the  browser is OS or not. Well, let see, you could tweets with both Twitter.com (on browsers) and it's App (on Android, iOS or  other operating systems), it seems like the browser is on the same level  like OS.
 
-...
+However, browser is not OS. Cause a web browser never has ability for websites to directly interact with hardware. The OS, as software, provide more basic functions, such as reading or  writting files on your hard disk, controlling peripherals   devices like a keyboard, and allowing your programs to understand what you want when you press the keyboard, click the mouse or tap the touchscreen. Well, what if we provide these basic functions to a browser? Does it become OS?
 
 ## UNIX Architecture
