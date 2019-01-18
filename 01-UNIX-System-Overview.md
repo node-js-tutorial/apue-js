@@ -8,4 +8,8 @@ As web browsers' user, you may wanna ask if the  browser is OS or not. Well, let
 
 However, browser is not OS. Cause a web browser never has ability for websites to directly interact with hardware. The OS, as software, provide more basic functions, such as reading or  writting files on your hard disk, controlling peripherals   devices like a keyboard, and allowing your programs to understand what you want when you press the keyboard, click the mouse or tap the touchscreen. Well, what if we provide these basic functions to a browser? Does it become OS?
 
+It become true in the case of Chrome OS, where the browser itself is still separate from the OS kernel, though it doesn't appear so. But  it's enough for us to dream about the next generation of OS, with very thin layer of  hardware and full-energy of cloud services.
+
+Popular operating systems you heard might be Windows Mac or Linux. While UNIX sounds like a unfamiliar OS and historical or may be old in someone's  opinion, why we should learn Unix instead of formers?
+
 ## UNIX Architecture
