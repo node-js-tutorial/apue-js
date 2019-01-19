@@ -16,9 +16,9 @@ This tutorial expects basic understanding of programming language such as JavaSc
 
 ## Contents
 
-- [1. UNIX System Overview](./01-UNIX-System-Overview.md)
-  - [1.1 Introduction](./01-UNIX-System-Overview.md#introduction)
-  - 1.2 UNIX Architecture
+- [1. UNIX System Overview](01-UNIX-System-Overview.md)
+  - [1.1 Introduction](01-UNIX-System-Overview.md#introduction)
+  - [1.2 UNIX Architecture](01-UNIX-System-Overview.md#unix-architecture)
   - 1.3 Logging In
   - 1.4 Files and Directories
   - 1.5 Input and Output
