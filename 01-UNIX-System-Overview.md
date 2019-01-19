@@ -12,4 +12,10 @@ It become true in the case of Chrome OS, where the browser itself is still separ
 
 Popular operating systems you heard might be Windows Mac or Linux. While UNIX sounds like a unfamiliar OS and historical or may be old in someone's  opinion, why we should learn Unix instead of formers?
 
+In fact, Unix is a family of multitasking, multiuser computer operating systems that including BSD, Mac OSX, Linux and so on. With the huge family of operating systems, it could help us to learn from more orginal system. I bet you will be interested.
+
+Learn the Unix system  with traditional C  language and old-fashioned descriptions, is a  difficult task (and could require many extra learning that can be avoid). This chapter provides a encapsulated tour of Unix System from JavaScript programmer's perspective.
+
+We’ll give some brief JavaScript code examples of terms and concepts that used to be describeb by C. We'll talk about these features in much more detail in later chapters. This chapter also provides an introduction to and overview of the functions provided by the Unix System for programmers new to this environment.
+
 ## UNIX Architecture
