@@ -19,3 +19,17 @@ Learn the Unix system  with traditional C  language and old-fashioned descriptio
 We’ll give some brief JavaScript code examples of terms and concepts that used to be describeb by C. We'll talk about these features in much more detail in later chapters. This chapter also provides an introduction to and overview of the functions provided by the Unix System for programmers new to this environment.
 
 ## UNIX Architecture
+
+As we mentioned before, operating system managers your hardware resources. So, there is a very clear relationship between hardware and software, that's a bridge suspending at middle which is usually called **kernel**.
+
+```text
+┌──────────────┐
+|   Software   |
+└──────────────┘
+    | |  | |
+    |kernel|
+    | |  | |
+┌──────────────┐
+|   Hardware   |
+└──────────────┘
+```
