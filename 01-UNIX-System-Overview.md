@@ -33,3 +33,5 @@ As we mentioned before, operating system managers your hardware resources. So, t
 |   Hardware   |
 └──────────────┘
 ```
+
+Due to the events like [Zero-day attack](https://en.wikipedia.org/wiki/Zero-day_(computing)), you can always find reasons to upgrade a lot of things named patch or feature to our OS. Therefore, it's no doubt that kernel is  implemented as   software. But, we still dislike the frequent upgradation, so the great programmers try hard to make it as small as  possible, which means beautiful and stable.
