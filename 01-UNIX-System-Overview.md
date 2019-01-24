@@ -37,3 +37,17 @@ As we mentioned before, operating system managers your hardware resources. So, t
 Due to the events like [Zero-day attack](https://en.wikipedia.org/wiki/Zero-day_(computing)), you can always find reasons to upgrade a lot of things named patch or feature to our OS. Therefore, it's no doubt that kernel is  implemented as software. But, we still dislike the frequent updating, so the great programmers try hard to make it as small as possible, which means beautiful and stable.
 
 So, the kernel become a program which is the small but core part of a operating system, with miracly complete control over everything in the system (Dftba, LOL).
+
+```text
+┌────────────────────────────┐
+|        Application         |
+└────────────────────────────┘
+             |  |
+┌────────────────────────────┐
+|        k e r n e l         |
+└────────────────────────────┘
+   | |       |  |       | |
+┌───────┐ ┌────────┐ ┌───────┐
+| C P U | | Memory | |Devices|
+└───────┘ └────────┘ └───────┘
+```
