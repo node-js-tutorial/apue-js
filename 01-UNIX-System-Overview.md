@@ -38,6 +38,8 @@ Due to the events like [Zero-day attack](https://en.wikipedia.org/wiki/Zero-day_
 
 So, the kernel become a program which is the small but core part of a operating system, with miracly complete control over everything in the system (Dftba, LOL).
 
+On most systems, kernel is one of the first programs loaded on start-up. It handles the rest of start-up as well as input/output requests from software, translating them into data-processing instructions for the CPU. It handles memory and peripherals like keyboards, monitors, printers, and speakers (open [wiki](https://en.wikipedia.org/wiki/Kernel_(operating_system)) for more).
+
 ```text
 ┌────────────────────────────┐
 |        Application         |
