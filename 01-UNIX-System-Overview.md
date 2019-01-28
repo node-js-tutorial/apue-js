@@ -53,3 +53,5 @@ On most systems, kernel is one of the first programs loaded on start-up. It hand
 | C P U | | Memory | |Devices|
 └───────┘ └────────┘ └───────┘
 ```
+
+There is only way for applications to use the computer resources encapsulated by kernel is *System Call*, which provided by kernel the same time.
